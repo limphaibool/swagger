@@ -9,3 +9,5 @@ paths:
       responses:
         '200':
           description: Test get
+        '400': 
+          description: Test error
