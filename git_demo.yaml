@@ -5,3 +5,7 @@ info:
 paths:
   /test:
     summary: Test
+    get: 
+      responses:
+        '200':
+          description: Test get
