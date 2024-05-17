@@ -9,3 +9,7 @@ paths:
       responses:
         '200':
           description: Test get
+components:
+  responses:
+    200OK:
+      description: OK
